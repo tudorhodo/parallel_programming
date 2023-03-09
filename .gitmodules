@@ -1,0 +1,15 @@
+[submodule "DistributedSystems"]
+	path = DistributedSystems
+	url = git@github.com:tudorhodo/DistributedSystems.git
+[submodule "ParallelGeneticAlgorithm"]
+	path = ParallelGeneticAlgorithm
+	url = git@github.com:tudorhodo/ParallelGeneticAlgorithm.git
+[submodule "PracticAPD1"]
+	path = PracticAPD1
+	url = git@github.com:tudorhodo/PracticAPD1.git
+[submodule "PracticAPD2"]
+	path = PracticAPD2
+	url = git@github.com:tudorhodo/PracticAPD2.git
+[submodule "cholesky_decomposition"]
+	path = cholesky_decomposition
+	url = git@github.com:tudorhodo/cholesky_decomposition.git
